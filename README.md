@@ -1,2 +1,2 @@
-# OOP_Lab
-Nơi lưu trữ bài tập của lớp Thực hành lập trình hướng đối tượng.
+# Nơi lưu trữ bài tập của lớp Thực hành lập trình hướng đối tượng.
+
